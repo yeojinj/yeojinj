@@ -41,6 +41,10 @@
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxjyng)](https://solved.ac/xxxjyng)
   <img src="http://mazandi.herokuapp.com/api?handle=xxxjyng&theme=dark"/>  
+  
+  *Programming & CS Study*
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=today-i-learned)](https://github.com/anuraghazra/github-readme-stats)
 
   <br></br>
 
