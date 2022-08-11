@@ -41,7 +41,7 @@
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxjyng)](https://solved.ac/xxxjyng)
   <img src="http://mazandi.herokuapp.com/api?handle=xxxjyng&theme=dark"/>  
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManduTheCat&repo=ssafy_algorithm_study)](https://github.com/ManduTheCat/ssafy_algorithm_study)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=ssafy_algorithm_study)](https://github.com/YGitHub-1/ssafy_algorithm_study)
   
   *Programming & CS*
   
