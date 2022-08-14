@@ -2,7 +2,7 @@
 
   ![YGitHub-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=YGitHub-1&show_icons=true&theme=gruvbox&count_private=true)  
 
-  <br></br>
+  <br>
 
   ## ⚙ Tech Stack  
     
