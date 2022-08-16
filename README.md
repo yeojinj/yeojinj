@@ -35,7 +35,7 @@
 
   ## 🌱 Currently Studying
 
-  *Problem Solving*  
+  Problem Solving  
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxjyng)](https://solved.ac/xxxjyng)
@@ -45,7 +45,7 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=ssafy-algorithm-study)](https://github.com/YGitHub-1/ssafy-algorithm-study)
   
-  *Programming & CS*
+  Programming & CS
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=today-i-learned)](https://github.com/YGitHub-1/today-i-learned)
 
