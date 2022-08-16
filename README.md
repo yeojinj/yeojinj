@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![YGitHub-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=YGitHub-1&show_icons=true&theme=gruvbox&count_private=true)  
+  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)  
 
   <br>
 
@@ -42,18 +42,18 @@
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxjyng)](https://solved.ac/xxxjyng)
   <img src="http://mazandi.herokuapp.com/api?handle=xxxjyng&theme=dark"/>  
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=problem-solving)](https://github.com/YGitHub-1/problem-solving)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=problem-solving)](https://github.com/yeojinj/problem-solving)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=ssafy-algorithm-study)](https://github.com/YGitHub-1/ssafy-algorithm-study)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=ssafy-algorithm-study)](https://github.com/yeojinj/ssafy-algorithm-study)
   
   Programming & CS
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YGitHub-1&repo=today-i-learned)](https://github.com/YGitHub-1/today-i-learned)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=today-i-learned)](https://github.com/yeojinj/today-i-learned)
 
   <br></br>
 
   ## 📫 How to Reach Me 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYGitHub-1&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeojinj&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="mailto:yogurt05j@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   <br></br>
