@@ -1,7 +1,5 @@
 <div align="center">
 
-  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)  
-
   <br>
 
   ## ⚙ Tech Stack  
@@ -43,14 +41,6 @@
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxjyng)](https://solved.ac/xxxjyng)
   <img src="http://mazandi.herokuapp.com/api?handle=xxxjyng&theme=dark"/>  
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=problem-solving)](https://github.com/yeojinj/problem-solving)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=ssafy-algorithm-study)](https://github.com/yeojinj/ssafy-algorithm-study)
-  
-  Programming & CS
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=today-i-learned)](https://github.com/yeojinj/today-i-learned)
-
   <br></br>
 
   ## 📫 How to Reach Me 
@@ -86,4 +76,17 @@ Here are some ideas to get you started:
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
+-->
+<--
+Error
+
+  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=problem-solving)](https://github.com/yeojinj/problem-solving)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=ssafy-algorithm-study)](https://github.com/yeojinj/ssafy-algorithm-study)
+  
+  Programming & CS
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=today-i-learned)](https://github.com/yeojinj/today-i-learned)
 -->
