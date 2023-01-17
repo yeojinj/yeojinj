@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 -->
-<--
+<!--
 Error
 
   ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)
