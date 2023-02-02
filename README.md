@@ -1,4 +1,6 @@
 <div align="center">
+  
+  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)
 
   <br>
 
@@ -18,18 +20,20 @@
   
   ## 🛠 Tools
   
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
 
   <br></br>
 
@@ -39,7 +43,9 @@
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxjyng)](https://solved.ac/xxxjyng)
+  <!--
   <img src="http://mazandi.herokuapp.com/api?handle=xxxjyng&theme=dark"/>  
+  -->
   
   <br></br>
 
@@ -79,8 +85,6 @@ Here are some ideas to get you started:
 -->
 <!--
 Error
-
-  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeojinj&repo=problem-solving)](https://github.com/yeojinj/problem-solving)
   
