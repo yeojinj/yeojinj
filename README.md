@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=gruvbox&count_private=true)
+  ![yeojinj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojinj&show_icons=true&theme=shadow_blue&count_private=true)
 
   <br>
 
